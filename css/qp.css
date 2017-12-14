@@ -1,0 +1,31 @@
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.qp{
+	width: 100%;
+	height: 100%;
+}
+.fix{
+	width: 100%;
+	height: 50px;
+	background: #ccc;
+	position: fixed;
+}
+.banner{
+	width: 100%;
+	height: 100%;
+	padding-top: 50px;
+	background: blue;
+}
+.banner .b_left{
+	width: 100px;
+	height: 100%;
+	float: left;
+	background: yellow;
+}
+.banner .b_right{
+	margin-left: 100px;
+	height: 100%;
+	background: pink;
+}
